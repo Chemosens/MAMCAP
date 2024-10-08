@@ -76,4 +76,5 @@ or
 data(wine)
 CAPTable(wine)
 CAPTable(wine,model="TwoWayANOVA")
+}
 
