@@ -7,4 +7,4 @@ Author: Caroline Peltier, Per Brockhoff, Michel Visalli, Pascal Schlich
 Maintainer: <caroline.peltier@dijon.inra.fr>
 Description: This package makes available the MAM-CAP table : a panel and panelist performance table taking the scaling into account.
 License: GPL (>= 2)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.3.2
