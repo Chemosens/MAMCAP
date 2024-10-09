@@ -11,9 +11,9 @@ install_github("https://github.com/ChemoSens/MAMCAP")
 ```
 ## Usage
 ### Loading profile data as profile object
-In this example, we suppose that the data are in a file yourdata.txt, containing these columns: 
+In this example, we suppose that the data are in a file 'yourdata.txt', containing the following columns: "ProductCode","SubjectCode","Replicate","AttributeCode","Score"
 ```R
-profileObject=ReadProfileData(yourdata.txt,sep="\t")
+profileObject=ReadProfileData(file='yourdata.txt',sep="\t")
 ```
 If any question, please type
 ```R
