@@ -5,7 +5,7 @@ This package aims to produce a MAM-CAP table as presented in Peltier et al. 2012
 ```R
 ## install devtools
 if (!requireNamespace("devtools", quietly = TRUE)) {    install.packages("devtools") }
-## Install BETR
+## Install MAMCAP
 library(devtools)
 install_github("https://github.com/ChemoSens/MAMCAP")
 ```
