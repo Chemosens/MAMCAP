@@ -43,3 +43,7 @@ An example of use is available on wine data
 data(wine)
 CAPTable(wine)
 ```
+
+## References
+C. Peltier, P.B. Brockhoff, M. Visalli, P. Schlich, The MAM-CAP table: A new tool for monitoring panel performances,Food Quality and Preference, Volume 32, Part A, 2014,Pages 24-27, ISSN 0950-3293, https://doi.org/10.1016/j.foodqual.2013.07.004.
+
